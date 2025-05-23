@@ -1,6 +1,8 @@
 # Virtual Mouse Using Hand Gestures
 
 A real-time virtual mouse system that lets users control their computer cursor with intuitive hand gestures, providing a seamless and touchless computing experience.
+.
+
 
 # Key Features
 
